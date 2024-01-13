@@ -1,4 +1,5 @@
-### Hi there 👋
+                                                                        __Привет всем!__ 👋
+                                                             __Меня зовут София. Я Frontend-разработчик)__
 
 <!--
 **SofiaFrikina/SofiaFrikina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
