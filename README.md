@@ -14,11 +14,13 @@ __General__
 ![Static Badge](https://img.shields.io/badge/Postman-darkorange?style=for-the-badge&logo=postman)
 ![Static Badge](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Babel-yellow?style=for-the-badge&logo=babel)
+
 __Frontend__
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white&labelColor=orange&color=orange)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 __Backend__
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
